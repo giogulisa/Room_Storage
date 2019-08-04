@@ -1,0 +1,90 @@
+E:\C#\SupperStore02\SupperStore02\bin\Debug\SupperStore02.exe.config
+E:\C#\SupperStore02\SupperStore02\bin\Debug\SupperStore02.exe
+E:\C#\SupperStore02\SupperStore02\bin\Debug\SupperStore02.pdb
+E:\C#\SupperStore02\SupperStore02\bin\Debug\EntityFramework.dll
+E:\C#\SupperStore02\SupperStore02\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\SupperStore02\SupperStore02\bin\Debug\EntityFramework.xml
+E:\C#\SupperStore02\SupperStore02\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.Form1.resources
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.Properties.Resources.resources
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.csproj.GenerateResource.cache
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.csproj.CoreCompileInputs.cache
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.csproj.CopyComplete
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.exe
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.pdb
+E:\C#\SupperStore02\SupperStore02\obj\Debug\SupperStore02.csprojAssemblyReference.cache
+E:\C#\SupperStore02 - Copy\SupperStore02\bin\Debug\SupperStore02.exe.config
+E:\C#\SupperStore02 - Copy\SupperStore02\bin\Debug\SupperStore02.exe
+E:\C#\SupperStore02 - Copy\SupperStore02\bin\Debug\SupperStore02.pdb
+E:\C#\SupperStore02 - Copy\SupperStore02\bin\Debug\EntityFramework.dll
+E:\C#\SupperStore02 - Copy\SupperStore02\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\SupperStore02 - Copy\SupperStore02\bin\Debug\EntityFramework.xml
+E:\C#\SupperStore02 - Copy\SupperStore02\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.Form1.resources
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.Properties.Resources.resources
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.csproj.GenerateResource.cache
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.csproj.CoreCompileInputs.cache
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.csproj.CopyComplete
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.exe
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.pdb
+E:\C#\SupperStore02 - Copy\SupperStore02\obj\Debug\SupperStore02.csprojAssemblyReference.cache
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\bin\Debug\SupperStore02.exe.config
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\bin\Debug\SupperStore02.exe
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\bin\Debug\SupperStore02.pdb
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\bin\Debug\EntityFramework.dll
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\bin\Debug\EntityFramework.xml
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.csprojAssemblyReference.cache
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.Form1.resources
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.Properties.Resources.resources
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.csproj.GenerateResource.cache
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.csproj.CoreCompileInputs.cache
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.csproj.CopyComplete
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.exe
+E:\C#\SupperStore02 - Copy - Copy\SupperStore02\obj\Debug\SupperStore02.pdb
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\SupperStore02.exe.config
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\SupperStore02.exe
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\SupperStore02.pdb
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.dll
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.xml
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csprojAssemblyReference.cache
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.Form1.resources
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.Properties.Resources.resources
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csproj.GenerateResource.cache
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csproj.CopyComplete
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.exe
+C:\Users\Ghost\Desktop\Storage-58ef8a64245e4e2c982951553372008521e669e9\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.pdb
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\SupperStore02.exe.config
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\SupperStore02.exe
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\SupperStore02.pdb
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.dll
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.xml
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csprojAssemblyReference.cache
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.Form1.resources
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.Properties.Resources.resources
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csproj.GenerateResource.cache
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csproj.CoreCompileInputs.cache
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.csproj.CopyComplete
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.exe
+E:\C#\Storage-58ef8a64245e4e2c982951553372008521e669e9\SupperStore02\obj\Debug\SupperStore02.pdb
+E:\C#\Storage\SupperStore02\bin\Debug\SupperStore02.exe.config
+E:\C#\Storage\SupperStore02\bin\Debug\SupperStore02.exe
+E:\C#\Storage\SupperStore02\bin\Debug\SupperStore02.pdb
+E:\C#\Storage\SupperStore02\bin\Debug\EntityFramework.dll
+E:\C#\Storage\SupperStore02\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\Storage\SupperStore02\bin\Debug\EntityFramework.xml
+E:\C#\Storage\SupperStore02\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.csprojAssemblyReference.cache
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.Form1.resources
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.Properties.Resources.resources
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.csproj.GenerateResource.cache
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.csproj.CoreCompileInputs.cache
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.csproj.CopyComplete
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.exe
+E:\C#\Storage\SupperStore02\obj\Debug\SupperStore02.pdb
